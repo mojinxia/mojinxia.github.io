@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOJINXIA.GITHUB.IO</id>
     <title>Gridea</title>
-    <updated>2020-05-26T02:20:07.467Z</updated>
+    <updated>2020-05-26T02:42:13.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MOJINXIA.GITHUB.IO"/>
     <link rel="self" href="https://MOJINXIA.GITHUB.IO/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://MOJINXIA.GITHUB.IO/images/avatar.png</logo>
     <icon>https://MOJINXIA.GITHUB.IO/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello 世界]]></title>
+        <id>https://MOJINXIA.GITHUB.IO/post/About us/</id>
+        <link href="https://MOJINXIA.GITHUB.IO/post/About us/">
+        </link>
+        <updated>2020-05-26T02:24:40.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://MOJINXIA.GITHUB.IO/post-images/1590459988117.jpg" alt="" loading="lazy"><br>
+首先谢谢大家对本网站的支持，在这里为大家带来区块链的部分知识。<br>
+网站会为大家更新一些日赚3-10元的零撸项目，十个项目相当于日赚30-100，五十个项目相当于日赚150-300。每个项目耗时2-5分钟，五十个项目100-250分钟，相当于2-4小时，日收入达到工厂水平。<br>
+不去学习，你永远不懂新知识，不去试一试，成败永远与你无关。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://MOJINXIA.GITHUB.IO/post/hello-gridea/</id>
